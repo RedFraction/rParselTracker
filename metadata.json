@@ -1,0 +1,8 @@
+{
+  "name": "rParselTracker",
+  "description": "Parsel tracking via Cainiao API",
+  "uuid": "red.fraction.1998@gmail.com",
+  "shell-version": [
+    "42"
+  ]
+}
